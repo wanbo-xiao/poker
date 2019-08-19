@@ -18,6 +18,14 @@ Reference
 - Straight : http://en.wikipedia.org/wiki/List_of_poker_hands#Straight
 - Straight Flush : http://en.wikipedia.org/wiki/List_of_poker_hands#Straight_flush
 
+## Demo
+http://www.bobsyd.com/demo/poker/
+
+## Todo
+1. layout
+2. two pairs / flush /.....
+3. Play Texas
+
 ## Setup
 docker-compose 
 enter container
