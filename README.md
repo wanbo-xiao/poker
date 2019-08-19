@@ -1,5 +1,5 @@
 # straight-card
-
+## Requirement
 Task A
 Create a function that will generate a random hand of 5 standard playing cards.
 The hand of cards must be returned in the format: array('2c', '6d', 'as', 'jh', '10c');
@@ -18,3 +18,7 @@ Reference
 - Straight : http://en.wikipedia.org/wiki/List_of_poker_hands#Straight
 - Straight Flush : http://en.wikipedia.org/wiki/List_of_poker_hands#Straight_flush
 
+## Setup
+docker-compose 
+enter container
+composer install / npm install / npm run dev
