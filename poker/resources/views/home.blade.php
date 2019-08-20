@@ -9,11 +9,7 @@
             <span><img src="img/{{$card}}.jpg"></span>
         @endforeach
 
-        <p> and they are 
-            @if(!$straight)
-                not
-            @endif
-            a straight
+        <p> and {{$msg}}
     </body>
     <footer>
         <script src="{{ mix('js/app.js') }}"></script>
